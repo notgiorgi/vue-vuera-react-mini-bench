@@ -29,3 +29,7 @@ RUNS_COUNT=5 yarn audit
 results will be displayed in terminal, more in depth audits are in `auditor/audits` directory
 
 ## Findings
+
+Average results of 10 runs (lower is better):
+
+![10 runs](https://i.imgur.com/FU3eD2W.png)
