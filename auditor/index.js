@@ -3,7 +3,7 @@ const util = require('util')
 const path = require('path')
 const async = require('async')
 
-const auditor = require('./auditor')
+const auditor = require('./lighthouse')
 const dirExists = util.promisify(fs.exists)
 const mkdir = util.promisify(fs.mkdir)
 const writeFile = util.promisify(fs.writeFile)

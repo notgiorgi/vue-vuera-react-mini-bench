@@ -2,7 +2,8 @@
   "scripts": {
     "build": "npx webpack --config webpack.config.js",
     "serve": "http-server",
-    "start": "yarn build && yarn serve"
+    "start": "yarn build && yarn serve",
+    "audit": "node ./auditor/index.js"
   },
   "license": "MIT",
   "devDependencies": {
