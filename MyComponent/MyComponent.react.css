@@ -1,0 +1,9 @@
+ol {
+  display: flex;
+  overflow: scroll;
+  width: 500px;
+  height: 50px;
+}
+li {
+  flex: 0 0 160px;
+}

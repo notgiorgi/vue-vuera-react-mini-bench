@@ -1,0 +1,91 @@
+[
+  {
+    "just_react": {
+      "firstMeaningfulPaint": {
+        "id": "first-meaningful-paint",
+        "title": "First Meaningful Paint",
+        "description": "First Meaningful Paint measures when the primary content of a page is visible. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint).",
+        "score": 0.25,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 5286.73,
+        "displayValue": "5.3 s"
+      },
+      "firstContentfulPaint": {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint).",
+        "score": 0.25,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 5286.73,
+        "displayValue": "5.3 s"
+      },
+      "speedIndex": {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/speed-index).",
+        "score": 0.57,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 5408.46838798058,
+        "displayValue": "5.4 s"
+      }
+    },
+    "react_and_vuera": {
+      "firstMeaningfulPaint": {
+        "id": "first-meaningful-paint",
+        "title": "First Meaningful Paint",
+        "description": "First Meaningful Paint measures when the primary content of a page is visible. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint).",
+        "score": 0.41,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 4388.486,
+        "displayValue": "4.4 s"
+      },
+      "firstContentfulPaint": {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint).",
+        "score": 0.41,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 4388.486,
+        "displayValue": "4.4 s"
+      },
+      "speedIndex": {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/speed-index).",
+        "score": 0.67,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 4826.126604022471,
+        "displayValue": "4.8 s"
+      }
+    },
+    "plain_react_and_vue": {
+      "firstMeaningfulPaint": {
+        "id": "first-meaningful-paint",
+        "title": "First Meaningful Paint",
+        "description": "First Meaningful Paint measures when the primary content of a page is visible. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-meaningful-paint).",
+        "score": 0.26,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 5208.278,
+        "displayValue": "5.2 s"
+      },
+      "firstContentfulPaint": {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/first-contentful-paint).",
+        "score": 0.26,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 5208.278,
+        "displayValue": "5.2 s"
+      },
+      "speedIndex": {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/speed-index).",
+        "score": 0.4,
+        "scoreDisplayMode": "numeric",
+        "numericValue": 6454.0009843085245,
+        "displayValue": "6.5 s"
+      }
+    }
+  }
+]
