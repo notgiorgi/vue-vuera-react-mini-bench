@@ -32,4 +32,4 @@ results will be displayed in terminal, more in depth audits are in `auditor/audi
 
 Average result of 10 runs (lower is better):
 
-![10 runs](https://i.imgur.com/rfO8TXU.png)
+![10 runs](https://i.imgur.com/ou15nbw.png)
