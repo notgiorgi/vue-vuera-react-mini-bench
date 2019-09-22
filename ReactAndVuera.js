@@ -1,5 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
+import { VueWrapper } from 'vuera'
+
 import { COMPONENT_INSTANCES_N } from './config'
 import MyComponent from './MyComponent/Mycomponent.vue'
 
@@ -8,7 +10,11 @@ const App = () => {
   return (
     <div>
       {instances.map(x => (
-        <MyComponent key={x} something="GOT THIS TEXT PASSERD FROM REACT VUERA!" />
+        <VueWrapper
+          component={MyComponent}
+          key={x}
+          something="GOT THIS TEXT PASSERD FROM REACT VUERA!"
+        />
       ))}
     </div>
   )
